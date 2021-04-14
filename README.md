@@ -25,6 +25,7 @@
 ## 去哪里学？
 * 网站：[www.jeeweixin.com](http://www.jeeweixin.com)
 * 或关注公众号：程序员祁老司，回复 jeeweixin，获取最新源码
+![image](http://jeeweixin.com/static/img/qlscode.jpg)
 
 ## 适合谁？
 * 微信生态掘金者
