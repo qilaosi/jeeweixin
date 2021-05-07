@@ -33,6 +33,5 @@
 
 ## 关于我
 * 祁聪（全网id：程序员祁老司），从技术小白到大厂leader，丰富的实战经验，连续创业者，奋斗ing
-* 个人网站：[http://coder10.net](http://www.coder10.net)
 * B站：[https://space.bilibili.com/305587632](https://space.bilibili.com/305587632)
 
