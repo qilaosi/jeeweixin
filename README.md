@@ -24,7 +24,7 @@
 
 ## 去哪里学？
 * 网站：[www.jeeweixin.com](http://www.jeeweixin.com)
-* 或关注公众号：程序员祁老司，回复 jeeweixin，获取最新源码
+* 或关注公众号：程序员祁老司，交流学习
 * ![image](https://raw.githubusercontent.com/qilaosi/jeeweixin/master/src/main/resources/static/qrcode.jpg)
 
 ## 适合谁？
