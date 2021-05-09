@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: jeeweixin
-Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Administrator
-Implementation-Vendor-Id: com
-Build-Jdk: 1.8.0_162
-Implementation-URL: http://jeeweixin.com
-Created-By: Maven Integration for Eclipse
-
