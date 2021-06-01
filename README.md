@@ -1,10 +1,16 @@
 
 ## jeeweixin.com —专注微信私域 | 开发 | 教程 | 源码 | 应用 | 掘金
 
+- https://github.com/qilaosi/jeeweixin
+
+- https://gitee.com/qilaosi/jeeweixin
+
+- 关注公众号：`coder10`，回复 `jeeweixin` ，答疑交流
+
 ## 微信生态
 * 微信生态对企业或开发者来说是绝对不能错过的机会
 * 公域流量越来越贵，私域流量越来越重要，微信是最大的私域阵地，是腾讯的top级战略规划
-* 微信生态产品包括：公众号、小程序、企业微信，提供了强大的、灵活的接口
+* 微信生态产品包括：公众号、小程序、企业微信，提供了强大的、灵活的接口。（还有视频号）
 * 开发者自由创造应用，不仅企业有开发需求，个人也可以做粉丝变现
 参考 [http://jeeweixin.com/article/1417293697384480](http://jeeweixin.com/article/1417293697384480)
 
@@ -16,8 +22,8 @@
 
 ## 技术选型
 * JavaEE是企业级应用，安全可靠
+* 技术选型：SpringBoot、Spring全家桶、MySql、MyBatis、Bootstrap、Freemarker、Redis等
 * jeeweixin实现了Java全栈开发：框架、微信生态接口、前端、数据库、缓存、服务器等
-* 技术选型：Spring全家桶、MySql、MyBatis、Bootstrap、Freemarker、Redis等
 
 ## 项目结构说明
 * /doc ，说明文档
