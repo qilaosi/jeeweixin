@@ -1,4 +1,4 @@
-package com.jeeweixin;
+package com.jeeweixin.web;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.slf4j.Logger;

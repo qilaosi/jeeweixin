@@ -1,4 +1,4 @@
-package com.jeeweixin.web;
+package com.jeeweixin.web.controller;
 
 /**
 * @author QiCong
