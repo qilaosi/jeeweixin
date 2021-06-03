@@ -10,19 +10,6 @@ import java.util.regex.Pattern;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * 53 bits unique id:
- * |--------|--------|--------|--------|--------|--------|--------|--------|
- * |00000000|00011111|11111111|11111111|11111111|11111111|11111111|11111111|
- * |--------|---xxxxx|xxxxxxxx|xxxxxxxx|xxxxxxxx|xxx-----|--------|--------|
- * |--------|--------|--------|--------|--------|---xxxxx|xxxxxxxx|xxx-----|
- * |--------|--------|--------|--------|--------|--------|--------|---xxxxx|
- * Maximum ID = 11111_11111111_11111111_11111111_11111111_11111111_11111111
- * Maximum TS = 11111_11111111_11111111_11111111_111
- * Maximum NT = ----- -------- -------- -------- ---11111_11111111_111 = 65535
- * Maximum SH = ----- -------- -------- -------- -------- -------- ---11111 = 31
- * It can generate 64k unique id per IP and up to 2106-02-07T06:28:15Z.
- */
 public final class IdUtil {
 
 	private static final Logger logger = LoggerFactory.getLogger(IdUtil.class);
