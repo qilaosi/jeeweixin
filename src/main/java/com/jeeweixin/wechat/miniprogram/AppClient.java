@@ -6,7 +6,7 @@ import com.alibaba.fastjson.JSONObject;
 import com.jeeweixin.common.util.BizDataCrypt;
 
 /**
-*@author QiCong
+*@author QiDaCong
 *@version 2021-06-10
 *微信小程序服务端
 **/
