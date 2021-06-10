@@ -1,8 +1,8 @@
 
-function datetimeFormat(longTypeDate, fullFormat){    
+function datetimeFormat(timestamp, fullFormat){    
   var dateTypeDate = "";    
   var date = new Date();    
-  date.setTime(longTypeDate);    
+  date.setTime(timestamp);    
   dateTypeDate += date.getFullYear();   //年    
   dateTypeDate += "-" + getMonth(date); //月     
   dateTypeDate += "-" + getDay(date);   //日    
