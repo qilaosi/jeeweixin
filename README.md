@@ -40,13 +40,11 @@
 * 有一点编程基础更好
 
 ## 关于我
-* 祁聪（全网id：程序员祁老司），丰富的实战经验，连续创业者
+* 祁聪（全网id：祁大聪），丰富的实战经验，连续创业者
 * B站：[https://space.bilibili.com/305587632](https://space.bilibili.com/305587632)
 
 ## 更多微信项目源码
 [https://github.com/qidacong/wechatProjects](https://github.com/qidacong/wechatProjects)
 
-
 ## 相关软件下载
 [http://jeeweixin.com/wiki/1407647653822496/1407690859348032](http://jeeweixin.com/wiki/1407647653822496/1407690859348032)
-
