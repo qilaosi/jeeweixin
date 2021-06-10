@@ -1,9 +1,9 @@
 
 ## jeeweixin.com —专注微信私域 | 开发 | 教程 | 源码 | 应用 | 掘金
 
-- https://github.com/qilaosi/jeeweixin
+- https://github.com/qidacong/jeeweixin
 
-- https://gitee.com/qilaosi/jeeweixin
+- https://gitee.com/qidacong/jeeweixin
 
 - 关注公众号：`coder10`，回复 `jeeweixin` ，答疑交流
 
@@ -44,7 +44,7 @@
 * B站：[https://space.bilibili.com/305587632](https://space.bilibili.com/305587632)
 
 ## 更多微信项目源码
-[https://github.com/qilaosi/wechatProjects](https://github.com/qilaosi/wechatProjects)
+[https://github.com/qidacong/wechatProjects](https://github.com/qidacong/wechatProjects)
 
 
 ## 相关软件下载
