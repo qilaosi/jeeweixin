@@ -1,0 +1,23 @@
+{
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/werun/werun",
+          "pathName": "pages/werun/werun",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+<!--pages/werun/werun.wxml-->
+<view class="container">
+  <text style="font-weight:bold">用户一个月的微信运动步数</text>
+  <view class="ux-step" wx:for="{{stepInfoList}}" wx:key="key">{{item.timestamp}}： {{item.step}}步</view>
+</view>
+

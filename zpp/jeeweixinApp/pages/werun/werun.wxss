@@ -1,0 +1,7 @@
+/* pages/werun/werun.wxss */
+
+.ux-step{
+  width: 500rpx;
+  text-align: left;
+  margin: 2rpx 0rpx;
+}
