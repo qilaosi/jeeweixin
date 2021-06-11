@@ -1,7 +1,7 @@
 package com.jeeweixin.wechat.miniprogram;
 
 /**
- *@author QiDaCong
+ *@author git@qidacong
  *@version 2021-06-10
  * 微信小程序API
  */

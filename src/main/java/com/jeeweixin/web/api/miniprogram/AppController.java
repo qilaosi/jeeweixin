@@ -12,7 +12,7 @@ import com.jeeweixin.common.util.JsonView;
 import com.jeeweixin.wechat.WechatConfig;
 import com.jeeweixin.wechat.miniprogram.AppClient;
 /**
-* @author QiDaCong
+* @author git@qidacong
 * @version 2021年4月11日
 **/
 
@@ -28,7 +28,7 @@ public class AppController{
 	@PostMapping(value = "/encryptStepInfoData")
 	@ResponseBody
 	public String encryptStepInfoData(String encryptedData, String iv, String code) {
-		JSONObject stepObj = AppClient.getStepList(WechatConfig.mappid, WechatConfig.mappsecret, code, encryptedData, iv);
+		JSONObject stepObj = AppClient.encryptStepInfo(WechatConfig.mappid, WechatConfig.mappsecret, code, encryptedData, iv);
 		return JsonView.successJson(stepObj);
 	}
 	

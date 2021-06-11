@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
-* @author QiCong
+* @author git@qidacong
 * @version 2021年4月11日
 **/
 @Controller

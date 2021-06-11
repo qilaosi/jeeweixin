@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 /**
-* @author QiCong
+* @author git@qidacong
 * @version 2021年4月10日
 * 
 **/

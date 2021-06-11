@@ -6,7 +6,7 @@ import com.alibaba.fastjson.JSONObject;
 import com.jeeweixin.common.util.BizDataCrypt;
 
 /**
-*@author QiDaCong
+*@author git@qidacong
 *@version 2021-06-10
 *微信小程序服务端
 **/
@@ -20,7 +20,7 @@ public class AppClient {
 	}
 	
 	//获取用户的步数
-	public static JSONObject getStepList(String appid, String appsecret, String code, String encryptedData, String iv){
+	public static JSONObject encryptStepInfo(String appid, String appsecret, String code, String encryptedData, String iv){
 		JSONObject jscode = jscode2session(appid, appsecret, code);
 		if(jscode.containsKey("session_key")){
 			String openid = jscode.getString("openid");
