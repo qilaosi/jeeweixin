@@ -14,8 +14,8 @@ import org.springframework.context.annotation.Configuration;
 **/
 @Configuration
 @EnableAutoConfiguration
-@ComponentScan(basePackages={"com.jeeweixin"})
-@MapperScan("com.jeeweixin.dao")
+@ComponentScan(basePackages={"com.jeeweixin.web"})
+@MapperScan("com.jeeweixin.web.dao")
 public class Application {
 	
 	static final Logger logger = LoggerFactory.getLogger(Application.class);

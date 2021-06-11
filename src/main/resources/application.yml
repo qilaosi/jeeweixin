@@ -26,4 +26,4 @@ mybatis:
 
 logging:
   level:
-    com.jeeweixin.dao: debug
+    com.jeeweixin.web.dao: debug
