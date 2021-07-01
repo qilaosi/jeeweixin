@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d52c05a9-7f73-4516-8dd1-fdc9bd8f04d6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doc/开发文档/001项目环境说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/开发文档/001项目环境说明.md" afterDir="false" />
     </list>
@@ -159,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618073352037</updated>
-      <workItem from="1625112501190" duration="2629000" />
+      <workItem from="1625112501190" duration="3253000" />
     </task>
     <servers />
   </component>
