@@ -20,17 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d52c05a9-7f73-4516-8dd1-fdc9bd8f04d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jeeweixin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jeeweixin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jeeweixin/web/controller/MvcController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jeeweixin/web/controller/MvcController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/001项目环境说明.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/002wechat包的名称介绍.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/003小程序服务器API.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/100微信小程序.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/101获取微信小程序运动步数.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.28702852" />
     <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
@@ -167,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618073352037</updated>
-      <workItem from="1625112501190" duration="912000" />
+      <workItem from="1625112501190" duration="1964000" />
     </task>
     <servers />
   </component>
@@ -186,6 +182,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="814" y="352" key="#Notifications" timestamp="1625114420869">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="814" y="352" key="#Notifications/-1600.0.1600.866/0.0.1920.1046@0.0.1920.1046" timestamp="1625114420869" />
     <state x="311" y="0" key="#Project_Structure" timestamp="1625112710268">
       <screen x="0" y="0" width="1920" height="1046" />
     </state>
@@ -210,9 +210,9 @@
       <screen x="0" y="0" width="1920" height="1046" />
     </state>
     <state width="1864" height="257" key="GridCell.Tab.0.right/-1600.0.1600.866/0.0.1920.1046@0.0.1920.1046" timestamp="1625112913658" />
-    <state x="-1249" y="0" key="SettingsEditor" timestamp="1625113415774">
-      <screen x="-1600" y="0" width="1600" height="866" />
+    <state x="326" y="63" width="1298" height="866" key="SettingsEditor" timestamp="1625114351969">
+      <screen x="0" y="0" width="1920" height="1046" />
     </state>
-    <state x="-1249" y="0" key="SettingsEditor/-1600.0.1600.866/0.0.1920.1046@0.0.1920.1046" timestamp="1625113415774" />
+    <state x="326" y="63" width="1298" height="866" key="SettingsEditor/-1600.0.1600.866/0.0.1920.1046@0.0.1920.1046" timestamp="1625114351969" />
   </component>
 </project>
