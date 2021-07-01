@@ -20,7 +20,7 @@ public class MvcController extends AbstractController{
 	@GetMapping("/")
 	public ModelAndView index(HttpServletRequest request){
 		logger.info("request index page ....");
-		
+
 		return new ModelAndView("index");
 	}
 	
