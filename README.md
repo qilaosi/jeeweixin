@@ -47,4 +47,4 @@
 [https://github.com/qidacong/wechatProjects](https://github.com/qidacong/wechatProjects)
 
 ## 相关软件下载
-[http://jeeweixin.com/wiki/1407647653822496/1407690859348032](http://jeeweixin.com/wiki/1407647653822496/1407690859348032)
+[http://www.jeeweixin.com/wiki/1413501396451360](http://www.jeeweixin.com/wiki/1413501396451360)

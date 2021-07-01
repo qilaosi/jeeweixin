@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d52c05a9-7f73-4516-8dd1-fdc9bd8f04d6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/jeeweixin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jeeweixin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/001项目环境说明.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/002wechat包的名称介绍.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/003小程序服务器API.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/100微信小程序.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/101获取微信小程序运动步数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618073352037</updated>
-      <workItem from="1625112501190" duration="1964000" />
+      <workItem from="1625112501190" duration="2347000" />
     </task>
     <servers />
   </component>
@@ -210,9 +205,9 @@
       <screen x="0" y="0" width="1920" height="1046" />
     </state>
     <state width="1864" height="257" key="GridCell.Tab.0.right/-1600.0.1600.866/0.0.1920.1046@0.0.1920.1046" timestamp="1625112913658" />
-    <state x="326" y="63" width="1298" height="866" key="SettingsEditor" timestamp="1625114351969">
+    <state x="326" y="63" width="1298" height="866" key="SettingsEditor" timestamp="1625114678222">
       <screen x="0" y="0" width="1920" height="1046" />
     </state>
-    <state x="326" y="63" width="1298" height="866" key="SettingsEditor/-1600.0.1600.866/0.0.1920.1046@0.0.1920.1046" timestamp="1625114351969" />
+    <state x="326" y="63" width="1298" height="866" key="SettingsEditor/-1600.0.1600.866/0.0.1920.1046@0.0.1920.1046" timestamp="1625114678222" />
   </component>
 </project>
